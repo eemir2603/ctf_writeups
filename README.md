@@ -1,5 +1,7 @@
 # BANDIT_WRITEUP.md
 
+## I Want to Share My OvertheWire Bandit levels how to outcome.
+
 ## Level 0 → 1
 
 **Task:** Connect to the game server via SSH and read the password file.
