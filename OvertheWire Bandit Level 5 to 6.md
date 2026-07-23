@@ -1,8 +1,8 @@
-##Level 5 → 6
+## Level 5 → 6
 
 Task: Find a file with specific properties (size, permissions) buried in a directory tree.
 
-Commands used:
+# Commands used:
 
 find . -size 1033c -not -executable
 
