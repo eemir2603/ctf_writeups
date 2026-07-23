@@ -1,4 +1,4 @@
-# BANDIT_WRITEUP.md
+# BANDIT_WRITEUP
 
 ## I Want to Share My OvertheWire Bandit levels how to outcome.
 
