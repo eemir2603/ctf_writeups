@@ -2,7 +2,7 @@
 
 Task: Find the one human-readable file among several, where only one isn't binary garbage.
 
-#Commands used:
+# Commands used:
 
 file ./-file*
 cat ./-file0X
