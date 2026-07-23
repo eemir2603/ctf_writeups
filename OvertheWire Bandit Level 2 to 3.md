@@ -1,8 +1,8 @@
-#Level 2 → 3
+## Level 2 → 3
 
 Task: Read a file with spaces in its name.
 
-#Commands used:
+# Commands used:
 
 cat "spaces in this filename"
 
