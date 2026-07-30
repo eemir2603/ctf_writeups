@@ -45,7 +45,7 @@ Instead of memorizing commands, I focus on *why* they work.
 ## 📈 Progress
 
 - [x] Started Bandit
-- [ ] In Progress...
+- [ x] In Progress...
 - [ ] Completed all levels
 
 ---
